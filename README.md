@@ -1,6 +1,6 @@
 # l04-hw02
 
--  Status: Pending
+-  Status: In Progress
 -  CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
 -  Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
 
