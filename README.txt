@@ -1,5 +1,5 @@
 l04-hw02
-* Status: In Progress
+* Status: Submitted
 * CodePen: <https://codepen.io/chindraba-ga/pen/GRZozqv>
 * Live page: <https://www.chindraba.work/fewd/l04-hw02.html>
 
